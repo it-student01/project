@@ -22,6 +22,7 @@
         <input type="password" id="password" placeholder="Enter Password" required>
 
        
+       <button type="submit">Login</button>
        
       </form>
     </div>
