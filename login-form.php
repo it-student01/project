@@ -23,7 +23,11 @@
 
        
        <button type="submit">Login</button>
-       
+
+       <p class="register-link">
+        Dont have an account ?<a href="#">Register</a>
+
+      </p> 
       </form>
     </div>
   </div>
