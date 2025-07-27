@@ -20,7 +20,7 @@
 
         <label for="password">Password</label>
         <input type="password" id="password" placeholder="Enter Password" required>
-<!-- just exploring branches ,and how it works -->
+<!-- just exploring branches ,and how it works  and tesitng with new ways-->
         
       
        
